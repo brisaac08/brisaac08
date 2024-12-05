@@ -1,6 +1,6 @@
 # 👋 Hola, soy Brayan Isaac (@brisaac08) | Hi, I'm Brayan Isaac
 
-![Welcome](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!) <!-- Cambia esta URL por un banner personalizado -->
+![Welcome](https://www.canva.com/design/DAGYY6mAu2A/DvYUb6U8ZGQSBVaT79gAqg/watch?utm_content=DAGYY6mAu2A&utm_campaign=designshare&utm_medium=link&utm_source=editor) <!-- Cambia esta URL por un banner personalizado -->
 
 ## 🌟 Sobre mí | About Me
 👨‍💻 **Español:**  
