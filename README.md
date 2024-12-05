@@ -9,9 +9,9 @@ Soy estudiante de Ingeniería de Sistemas en la **Universidad Popular del Cesar*
 I am a Systems Engineering student at **Universidad Popular del Cesar**, currently in my eighth semester. Throughout my academic journey, I have developed strong skills in software development, specializing in C# and .NET. Additionally, I am proficient in languages like JavaScript, Python, C++, and Dart, as well as frameworks such as React for web applications and Flutter for mobile applications.
 
 - 🎯 **Meta | Goal:** Crear soluciones innovadoras y escalables para resolver problemas reales.  
-- 🔍 **Intereses | Interests:** Desarrollo Full Stack, aplicaciones móviles, y cloud computing.  
-- 🌱 **Aprendiendo | Currently learning:** Kubernetes y arquitectura de microservicios.  
-- 🎨 **Dato curioso | Fun fact:** Disfruto experimentar con proyectos de electrónica y resolver puzzles de lógica.
+- 🔍 **Intereses | Interests:** Desarrollo Full Stack en programación web, aplicaciones móviles, cloud computing, seguridad informática y inteligencia artificial.  
+- 🌱 **Aprendiendo | Currently learning:** nuevos conocimientos en lenguajes y herramientas, buenas prácticas de programación, microservicios, lo básico en IA y seguridad informática.  
+- 🎨 **Dato curioso | Fun fact:** Soy músico, específicamente baterísta, me encanta retarme con proyectos de programación y adquirir nuevos conocimientos en mi campo académico.
 
 ---
 
