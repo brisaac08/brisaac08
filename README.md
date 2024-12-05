@@ -1,6 +1,5 @@
 # 👋 Hola, soy Brayan Isaac (@brisaac08) | Hi, I'm Brayan Isaac
 
-
 ## 🌟 Sobre mí | About Me
 👨‍💻 **Español:**  
 Soy estudiante de Ingeniería de Sistemas en la **Universidad Popular del Cesar**, actualmente en octavo semestre. Durante mi carrera, he adquirido una sólida formación en desarrollo de software, destacándome en C# y .NET. También tengo experiencia con lenguajes como JavaScript, Python, C++, y Dart, y manejo frameworks como React para aplicaciones web y Flutter para aplicaciones móviles.
@@ -18,6 +17,16 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
 ## 🛠️ **Stack Tecnológico | Tech Stack**
 ### **Lenguajes y herramientas | Languages and Tools**
 
+#### 📚 **Bases de Datos | Databases**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</div>
+
+#### 🔧 **Otras tecnologías | Other Technologies**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -27,7 +36,6 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
     <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
@@ -41,11 +49,24 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
 ---
 
 ## 💬 **Contáctame | Let's Connect**
-- 🌐 **LinkedIn:** [Brayan Isaac](https://www.linkedin.com/in/brayan-isaac-caro-bolaño-a904ab312/)  
-- 📧 **Email:** brayancarob.2003@gmail.com  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <a href="https://www.linkedin.com/in/brayan-isaac-caro-bolaño-a904ab312/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:brayancarob.2003@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.instagram.com/brisaacarob/">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.facebook.com/brayan.caro.94695/">
+        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+</div>
 
 ---
 
 ### ⭐ **Gracias por visitar mi perfil | Thanks for visiting my profile!**
 ¡Siempre estoy abierto a colaborar en proyectos interesantes y desafiantes!  
 Always open to collaborate on interesting and challenging projects!
+
