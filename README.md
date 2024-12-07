@@ -11,7 +11,7 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
 
 - 🎯 **Meta | Goal:** Crear soluciones innovadoras y escalables para resolver problemas reales.  
 - 🔍 **Intereses | Interests:** Desarrollo Full Stack en programación web, aplicaciones móviles, cloud computing, seguridad informática y inteligencia artificial.  
-- 🌱 **Aprendiendo | Currently learning:** nuevos conocimientos en lenguajes y herramientas, buenas prácticas de programación, microservicios, lo básico en IA y seguridad informática.  
+- 🌱 **Aprendiendo | Currently learning:** nuevos conocimientos en lenguajes y herramientas, buenas prácticas de programación, microservicios, lo básico en IA e seguridad informática.  
 - 🎨 **Dato curioso | Fun fact:** Soy músico, específicamente baterísta, me encanta retarme con proyectos de programación y adquirir nuevos conocimientos en mi campo académico.
 
 ---
