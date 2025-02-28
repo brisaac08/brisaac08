@@ -30,6 +30,7 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="" />
 </div>
 
 #### 📚 **Bases de Datos | Databases**
@@ -39,6 +40,18 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
+---
+
+## 🧾 **Testing**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Apache%20JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
 </div>
 
 ---
