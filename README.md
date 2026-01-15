@@ -17,58 +17,52 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
 ---
 
 ## 🛠️ **Stack Tecnológico | Tech Stack**
+
 ### **Lenguajes y herramientas | Languages and Tools**
 
 #### 🔧 **Lenguajes y otras tecnologías | Languages and Other Technologies**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 #### 📚 **Bases de Datos | Databases**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 ---
 
-## 🧾 **Testing**
+## 🧪 **Testing**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Apache%20JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache%20JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub | GitHub Stats
+## 📊 **Estadísticas de GitHub | GitHub Stats**
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=brisaac08&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-  height="170"
-/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brisaac08&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisaac08&layout=compact&theme=radical&hide_border=true" 
-  height="170"
-/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brisaac08&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -76,18 +70,18 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
 
 ## 💬 **Contáctame | Let's Connect**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-    <a href="https://www.linkedin.com/in/brayan-isaac-caro-bolaño-a904ab312/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:brayancarob.2003@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.instagram.com/brisaacarob/">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.facebook.com/brayan.caro.94695/">
-        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
+  <a href="https://www.linkedin.com/in/brayan-isaac-caro-bolaño-a904ab312/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brayancarob.2003@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/brisaacarob/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/brayan.caro.94695/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -95,4 +89,3 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
 ### ⭐ **Gracias por visitar mi perfil | Thanks for visiting my profile!**
 ¡Siempre estoy abierto a colaborar en proyectos interesantes y desafiantes!  
 Always open to collaborate on interesting and challenging projects!
-
