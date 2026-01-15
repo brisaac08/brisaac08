@@ -56,10 +56,21 @@ I am a Systems Engineering student at **Universidad Popular del Cesar**, current
 
 ---
 
-## 📊 **Estadísticas de GitHub | GitHub Stats**
+## 📊 Estadísticas de GitHub | GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brisaac08&show_icons=true&theme=radical&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brisaac08&layout=compact&theme=radical)
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=brisaac08&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+  height="170"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisaac08&layout=compact&theme=radical&hide_border=true" 
+  height="170"
+/>
+
+</div>
 
 ---
 
